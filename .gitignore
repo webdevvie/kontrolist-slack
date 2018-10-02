@@ -1,0 +1,10 @@
+vendor
+.idea
+build
+slack.phar
+slack.yml
+coverage
+composer.lock
+pakket.phar
+composer.phar
+
